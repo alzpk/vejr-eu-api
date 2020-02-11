@@ -1,5 +1,5 @@
 # Vejr.eu API PHP wrapper
-A simple PHP wrapper for vejr.eu's API [https://vejr.eu/api.php][https://vejr.eu/api.php]
+A simple PHP wrapper for vejr.eu's API [https://vejr.eu/][link]
 
 _Example of usage_
 ```
@@ -13,4 +13,4 @@ print_r($vejr->getLocationData('Los Angeles, USA'));
 ```
 
 
-[https://vejr.eu/api.php]: https://vejr.eu/api.php
+[link]: https://vejr.eu/
