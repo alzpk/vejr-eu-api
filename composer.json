@@ -9,6 +9,7 @@
             "email": "mh1986@outlook.dk"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Alzpk\\VejrEuAPI\\": "src/"
